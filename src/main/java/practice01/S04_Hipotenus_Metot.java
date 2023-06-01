@@ -12,7 +12,7 @@ public static void main(String[] args) {
     System.out.println("A kenarının uzunlugunu girin: ");
     double a=input.nextDouble();
 
-    System.out.println("A kenarının uzunlugunu girin: ");
+    System.out.println("B kenarının uzunlugunu girin: ");
     double b=input.nextDouble();
     System.out.println("hipotenusHesapla(a,b) = " + hipotenusHesapla(a, b));
 
