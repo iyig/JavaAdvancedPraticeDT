@@ -30,6 +30,8 @@ public class S03_DoWhile_TopunSicramasi {
              }while(yukseklik>1);
             toplamYol+=yukseklik;
              DecimalFormat df=new DecimalFormat("0.00");
+
+
              System.out.println("Toplam Yol" + df.format(toplamYol));
              System.out.println("Toplam yereVurmaSayisi" + yereVurmaSayisi);
 
