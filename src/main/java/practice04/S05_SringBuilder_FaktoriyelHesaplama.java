@@ -11,6 +11,8 @@ public class S05_SringBuilder_FaktoriyelHesaplama {
     */
 
     public static void main(String[] args) {
+
+        // 5! = 1 * 2 *3 * 4 * 5 = 120
         Scanner input = new Scanner(System.in);
         System.out.println("Bir sayı giriniz (20'ye eşit veya küçük olsun): ");
         int sayi = input.nextInt();
